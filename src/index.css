@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hoverImg{
+  width: 100%;
+  transition: 0.9s all ease-in-out;
+}
+.hoverImg:hover{
+  transform: scale(1.2);
+}
+.transition-bg{
+  transition: 0.5s all ease-in-out;
+}
