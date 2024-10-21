@@ -13,3 +13,7 @@
 .transition-bg{
   transition: 0.5s all ease-in-out;
 }
+::selection{
+  background: rgb(49, 169, 49);
+  color: whitesmoke;
+}
