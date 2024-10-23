@@ -9,6 +9,17 @@ export default {
         orange: "#DA8359",
         beige: "#ECDFCC",
         greeen: "#10231F",
+        brown: "#654520",
+        cyan: "#81DAE3",
+        biege: "#F8EDE3",
+        gray: "#E4E0E1",
+        red: "#F95454",
+        purple: "#D4BEE4",
+        blue: "#536493",
+        gren: "#4C4B16",
+        
+
+
       },
       boxShadow: {
         'xl': '0px 10px 60px 0px rgba(0,0,0,0.15)',
